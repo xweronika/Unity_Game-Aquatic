@@ -5,12 +5,9 @@ Autorzy: Dominika Świerzy i Weronika Gołaszczyk.
 Sposób uruchomienia gry:
 W folderze "RELEASE" znajdują się pliki exe do uruchomienia gry.
 
-Wersja Unity:
-2019.2.18f1
-
+Wersja Unity: 2019.2.18f1
 
 Opis gry:
-
 Gra "Aquatic" zbudowana jest na bazie silnika Unity 2D. Posiada elementy symulacji fizycznej oraz wykorzystuje wbudowane w silnik Unity komponenty fizyczne, takie jak Rigidbody oraz Physics.Raycast. Wykorzystuje również efekt oparty o system cząsteczkowy. Gra posiada 3 sceny - scenę menu, scenę gry oraz scenę z listą autorów. 
 Gra zawiera wprowadzające w nastrój, oceaniczne efekty dźwiękowe oraz grafiki w klimacie morskim. 
 
