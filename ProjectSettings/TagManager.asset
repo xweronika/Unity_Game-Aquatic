@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Animator
+  - fish
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3055706773
+    locked: 0
+  - name: obstacles
+    uniqueID: 1386927459
+    locked: 0
+  - name: targets
+    uniqueID: 2830766791
+    locked: 0
+  - name: player
+    uniqueID: 123242345
+    locked: 0
+  - name: frame
+    uniqueID: 3980760681
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
