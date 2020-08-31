@@ -1,6 +1,6 @@
 # Unity_Game-Aquatic
 
-Autorzy: Dominika Świerzy i Weronika Gołaszczyk.
+Autorzy: Dominika Ś. i Weronika G.
 
 Sposób uruchomienia gry:
 W folderze "RELEASE" znajdują się pliki exe do uruchomienia gry.
